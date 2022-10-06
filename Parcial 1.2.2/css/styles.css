@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+p {
+  margin-bottom: 0px!important;
+}
+
+.post-it {
+  width: 200px;
+  min-height: 150px;
+  margin-bottom: 15px;
+  border-radius:3px;
+  box-shadow:0 4px 6px rgba(0,0,0,0.1);
+  overflow:hidden;
+}
+
+.fondo-transparente {
+  background: transparent!important;
+  border-color: transparent!important;
+}
+
+.verde {
+  background: #b5f4bc;
+}
+
+.naranja {
+  background: #ffba6b;
+  
+}
+
+.amarillo {
+  background: #fff19e;
+  
+}
+
+.rojo {
+  background: #ff6543;
+
+}
